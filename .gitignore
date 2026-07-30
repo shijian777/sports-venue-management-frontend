@@ -1,0 +1,28 @@
+# Local review and design working files
+.docx-review/
+.superpowers/
+
+# Android / Gradle build output
+.gradle/
+build/
+**/build/
+local.properties
+*.apk
+*.aab
+
+# JavaScript dependencies and build output
+node_modules/
+dist/
+
+# IDE and operating-system files
+.idea/
+.vscode/
+*.iml
+.DS_Store
+Thumbs.db
+
+# Logs and local secrets
+*.log
+.env
+.env.*
+!.env.example
